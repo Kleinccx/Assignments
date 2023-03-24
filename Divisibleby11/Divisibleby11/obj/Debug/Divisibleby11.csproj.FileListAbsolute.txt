@@ -1,0 +1,8 @@
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.exe.config
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.exe
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\bin\Debug\Divisibleby11.pdb
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.exe
+C:\Users\Klein\Desktop\Divisibleby11\Divisibleby11\obj\Debug\Divisibleby11.pdb
